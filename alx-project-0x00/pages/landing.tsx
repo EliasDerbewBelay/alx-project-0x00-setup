@@ -8,6 +8,8 @@ const Landing: React.FC = () => {
 
       <Card />
       <Button styles="rounded-lg" title="Click Here" />
+      <Button styles="rounded-sm" title="Click Here" />
+      <Button styles="rounded-full" title="Click Here" />
     </div>
   );
 };
